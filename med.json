@@ -1,0 +1,18 @@
+[
+    {  
+        id:1,
+        name: 'calpol',
+        usage:'for fever',   
+    },
+    {
+        id:2,
+        name: 'penadol',
+        usage:'for painkiller',
+    },
+    {
+        id:3,
+        name: 'brufen',
+        usage:'for Fever & Pain',
+    },
+    
+]
